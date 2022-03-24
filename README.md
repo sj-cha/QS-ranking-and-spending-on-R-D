@@ -6,7 +6,7 @@ Yes, not all of them are publicly funded, but most of them often get grants and 
 * Only those nations which annually spend more than 50 million US dollars on R&D have been included, 
 * Only universities in the Top 500 in 2022 are considered for calculation,
 
-``` 
+```python
 qs = qs[(qs["year"] == 2022) & (qs["rank_display"].str.contains("-") == False)].reset_index()
 qs = qs[qs["rank_display"].astype(int) <= 500][["university", "score", "country"]]
 ```
