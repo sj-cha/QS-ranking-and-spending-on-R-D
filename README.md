@@ -1,5 +1,5 @@
 # QS ranking vs. Government's spending on research
-Yes, not all of them are publicly funded, but most of them often get grants and funding from the government to do research. We know better performance in research matters in the global university ranking, like QS. Would higher spending on Research and Development (R&D) help universities performing better on ranking?
+Yes, not all of them are publicly funded, but most of them often get grants and funding from the government to do research. We know better performance in research matters in the global university ranking, like QS. Would higher spending on Research and Development (R&D) help universities perform better on ranking?
 
 
 # Notes
